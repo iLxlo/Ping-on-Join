@@ -1,5 +1,5 @@
 # Ping-on-Join
-Ping on Join (PoJ), looks like nadeko greeter, can use for reward servers/community servers
+Ping on Join (PoJ), looks like nadeko/apollo greeter, can use for reward servers/community servers
 
 # FEATURES
 * PINGS USER IN ONE MESSAGE LIKE [@Ilxlo1,@Ilxlo2,@Ilxlo3 welcome.] so your bot will not get ratelimit
